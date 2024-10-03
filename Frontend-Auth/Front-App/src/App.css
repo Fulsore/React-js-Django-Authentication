@@ -1,0 +1,43 @@
+.Bc1 {
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: rgb(0, 21, 36);
+    background: linear-gradient(90deg, rgba(0, 21, 36, 1) 0%, rgba(9, 64, 121, 1) 35%, rgba(0, 255, 248, 1) 100%);
+}
+.From {
+    background-color: antiquewhite;
+    height: 550px;
+    min-width: 100%;
+    padding: 20px;
+    width: 50%;
+    border: 2px solid rgba(81, 126, 148, 0.2);
+    border-radius: 8px;
+    
+}
+
+.Items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100pX;
+    width: 100%;
+}
+
+.Title {
+    font-size: 30px;
+    color: #694;
+}
+
+.MyForm,
+.MyButton {
+    width: 100%;
+
+}
+
+.MyButton {
+    width: 100vw;
+    background-color: rgba(41, 181, 172, 0.067);
+}
